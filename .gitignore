@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files and directories
+.idea/
+
+# Ignore browser driver executables
+chromedriver
+geckodriver
+
+# Ignore environment-specific files
+venv/
+.env
+
+# Ignore any other files not needed in the repository
