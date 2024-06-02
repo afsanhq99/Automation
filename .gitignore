@@ -97,3 +97,5 @@ cypress.config.ts
 
 # Mac system files
 .DS_Store
+
+tempCodeRunnerFile
